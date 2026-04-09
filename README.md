@@ -33,7 +33,7 @@ Juego interactivo sobre una matriz LED bicolor 8×8. El jugador recorre el perí
 
 **Temas:** GPIO · Timers · Interrupciones · Multiplexación · Máquina de estados
 
-📁 [`/lab01`](./lab01)
+📁 [`/LAB2_SE`](./LAB2_SE)
 
 ---
 
