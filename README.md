@@ -54,7 +54,7 @@ El técnico puede seleccionar el sentido de giro del motor, ajustar la intensida
 
 **Temas:** PWM · ADC · Puente H · Optoacopladores · MOSFETs · Interfaces de potencia · Protección inductiva · Multiplexación · Máquina de estados
 
-📁 [`/RETO_DISENO`](./RETO_DISENO)
+📁 [`/RETO_DISENO_SE`](./RETO_DISENO_SE)
 
 ---
 
