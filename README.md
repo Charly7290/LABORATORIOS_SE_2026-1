@@ -37,6 +37,15 @@ Juego interactivo sobre una matriz LED bicolor 8×8. El jugador recorre el perí
 
 ---
 
+### Lab 03 — Sistema Domótico de Temperatura e Iluminación
+Sistema embebido domótico que controla automáticamente la temperatura e iluminación de una habitación mediante un sensor LM35, una fotoresistencia, una bombilla incandescente 12VAC, un motor paso a paso 28BYJ-48 y dos LEDs de potencia 3W. La temperatura de control se configura en tiempo real desde el monitor serial con el comando `SET_TEMP:XX`.
+
+**Temas:** ADC · PWM · LEDC · FreeRTOS · Mutex · Stepper motor · Relé · UART RX/TX · Calibración ADC · Interfaces de potencia
+
+📁 [`/LAB3_SE`](./LAB3_SE)
+
+---
+
 ### Reto de Diseño — Agitador de Muestras Clínico
 Prototipo funcional de un sistema electrónico de agitación controlada para el laboratorio clínico del Hospital Pablo Tobón Uribe. Controla un motor DC de 12V/2A mediante un puente H discreto con MOSFETs, con aislamiento galvánico por optoacopladores entre la etapa de control y la etapa de potencia.
 
