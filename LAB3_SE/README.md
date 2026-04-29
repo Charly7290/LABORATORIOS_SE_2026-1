@@ -29,7 +29,7 @@ Sistema que monitorea continuamente la temperatura y el nivel de iluminación de
 ## Funcionalidades
 
 - Control de temperatura con cinco zonas: calefacción, idle, ventilación baja, media y alta
-- Motor paso a paso aislado en CPU1 con busy-wait y watchdog reconfigurado
+- Motor paso a paso con pasos regulables
 - Seis niveles de iluminación automática según fotoresistencia (0–100%)
 - Calibración manual del ADC para compensar no linealidad del ESP32
 - Reporte continuo por UART cada 2 segundos: Tc, T, ni%, LED%
